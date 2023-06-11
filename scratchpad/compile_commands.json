@@ -1,0 +1,14 @@
+[
+ {
+  "directory": "/home/csrohit/code/cuda",
+  "arguments": [
+   "nvcc",
+   "-I/usr/local/cuda-12.1/include",
+   "-o",
+   "main.o",
+   "-c",
+   "main.c"
+  ],
+  "file": "main.c"
+ }
+]
